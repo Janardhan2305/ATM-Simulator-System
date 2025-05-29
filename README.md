@@ -39,7 +39,7 @@ This is a Java-based **ATM Simulator System** developed using **Java Swing**, **
 
 ## 📸 Screenshots
 
-_Add screenshots here to showcase the UI, e.g.:_
+
 
 <p float="left">
   <img src="screenshots/login.png" width="250" />
