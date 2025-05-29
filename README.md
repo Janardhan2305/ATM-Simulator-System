@@ -44,7 +44,7 @@ _Add screenshots here to showcase the UI, e.g.:_
 <p float="left">
   <img src="screenshots/login.png" width="250" />
   <img src="screenshots/dashboard.png" width="250" />
-  <img src="screenshots/mini-statement.png" width="250" />
+  <img src="screenshots/ministatement.png" width="250" />
 </p>
 
 ---
